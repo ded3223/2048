@@ -1,2 +1,2 @@
 # 2048
-## https://dinoffros365.github.io/2048/
+## https://ded3223.github.io/2048/
